@@ -18,7 +18,13 @@ Aim to learn and display the process:
 
 ## Top level TODO:
 
-1. Brainstorm site features/products
-2. Research tech stack to achive features/products
-3. ...
-4. Win?
+1. Planning & Requirements
+   - Think about target audience
+   - Map features
+   - Research design (User-centric, responsive, engaging)
+   - Build identity/theme 
+2. Front-End Dev
+   - Research tech stack to achieve P&R
+3. Back-End Dev
+4. ...
+5. Win?
